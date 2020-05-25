@@ -1,3 +1,3 @@
-# Data-Science First Project
-This repository contains the first project I'll be doing for Data Science as part of my self study.
+# Data-Science First Repository
+This repository contains the first projects I'll be doing for Data Science as part of my self study.
 
