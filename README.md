@@ -1,2 +1,2 @@
-# Data-Science
-This repository contains all projects created and sourced from different helpful blogs and websites
+# Data-Science First Project
+This repository contains the first project I'll be doing for Data Science as part of my self study.
